@@ -12,7 +12,7 @@
 
 ### About me
 
-I'm a web designer focused on clean, purposeful interfaces. I founded **[Learn Serbian](https://github.com/stralej)** — a project dedicated to making the Serbian language accessible to everyone. I care deeply about typography, whitespace, and the details that make a design feel right.
+I'm a web designer focused on clean, purposeful interfaces. I founded **[Learn Serbian](https://learn-serbian.rs)** — a project dedicated to making the Serbian language accessible to everyone. I care deeply about typography, whitespace, and the details that make a design feel right.
 
 ---
 
@@ -47,11 +47,11 @@ I'm a web designer focused on clean, purposeful interfaces. I founded **[Learn S
   </tr>
   <tr>
     <td width="64" align="center">
-      <img src="assets/start-page-logo.png" width="40" height="40" alt="Start Page logo" />
+      <img src="assets/vedro-logo.png" width="40" height="40" alt="Vedro logo" />
     </td>
     <td>
-      <strong><a href="https://stralej.github.io/start-page">Start Page</a></strong><br/>
-      A minimal personal start page. Fast, distraction-free, and made to last.
+      <strong><a href="https://github.com/stralej/vedro#readme">Vedro</a></strong><br/>
+      A minimalistic frosted-glass new tab extension. Replaces your browser's default new tab with something you actually want to look at.
     </td>
   </tr>
 </table>
